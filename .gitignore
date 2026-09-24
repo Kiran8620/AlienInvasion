@@ -1,4 +1,12 @@
-__pycache__/
-Python Crash Course/
+requirements.txt
 CREDITS.txt
 high_score.json
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
