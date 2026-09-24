@@ -5,7 +5,7 @@
    pip install -r requirements.txt
    pip install pyinstaller
 
-   pyinstaller --onefile --windowed --name "AlienInvasion" ^
+   python -m PyInstaller --onefile --windowed --name "AlienInvasion" ^
        --add-data "images;images" ^
        --add-data "sounds;sounds" ^
        alien_invasion.py
