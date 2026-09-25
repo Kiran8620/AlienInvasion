@@ -1,3 +1,11 @@
+## ▶️ Play the Game (Windows)
+
+1. Download `AlienInvasion.exe` from the [Releases](#) page (or wherever you're hosting the download)
+2. Double-click `AlienInvasion.exe` to launch — no installation needed
+3. If Windows shows a "Windows protected your PC" SmartScreen warning, click **More info** → **Run anyway** (this appears because the app isn't code-signed, not because anything is wrong)
+4. Press **Enter** or click **Play** to start!
+
+
 # 👾 Alien Invasion
 
 A classic top-down space shooter built with **Python** and **Pygame** — hold off the alien fleet, rack up your score, and survive as many levels as you can. Featuring a fully animated parallax space background with drifting planets, spinning asteroids, and a twinkling starfield.
