@@ -1,6 +1,6 @@
 ## ▶️ Play the Game (Windows)
 
-1. Download `AlienInvasion.exe` from the [Releases](#) page (or wherever you're hosting the download)
+1. Download `AlienInvasion.exe` from the [Releases](https://github.com/Kiran8620/AlienInvasion/releases) page
 2. Double-click `AlienInvasion.exe` to launch — no installation needed
 3. If Windows shows a "Windows protected your PC" SmartScreen warning, click **More info** → **Run anyway** (this appears because the app isn't code-signed, not because anything is wrong)
 4. Press **Enter** or click **Play** to start!
