@@ -14,7 +14,7 @@ A classic top-down space shooter built with **Python** and **Pygame** — hold o
 ---
 
 ![Home Screen](screenshots/home_screen.png)
-![Game Play] (screenshots/gameplay.png)
+![Game Play](screenshots/gameplay.png)
 
 ## ✨ Features
 
