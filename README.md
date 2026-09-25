@@ -31,6 +31,7 @@ A classic top-down space shooter built with **Python** and **Pygame** — hold o
   - Distance-based blur — smaller/farther background objects blur more than closer ones
   - Motion blur trails on fast-spinning asteroids for a genuine sense of motion
 - **Score & level tracking** — score, current level, and all-time high score displayed live during play
+- **Screen size is fixed to 1200 x 800
 
 ---
 
