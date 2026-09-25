@@ -13,6 +13,8 @@ A classic top-down space shooter built with **Python** and **Pygame** — hold o
 
 ---
 
+![Home Screen](screenshots/home_screen.png)
+
 ## ✨ Features
 
 - **Classic arcade shooting action** — pilot your ship, blast down waves of aliens, and survive as long as you can
